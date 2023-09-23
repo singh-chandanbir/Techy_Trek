@@ -1,0 +1,26 @@
+[Sat Sep 23 12:41:15.605538 2023] [ssl:warn] [pid 16796:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 23 12:41:15.636788 2023] [ssl:warn] [pid 16796:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\\xampp\\htdocs\\MoodleWindowsInstaller-latest-400\\server\\php\\ext\\sodium (The specified module could not be found.), C:\\xampp\\htdocs\\MoodleWindowsInstaller-latest-400\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat Sep 23 12:41:15.683674 2023] [mpm_winnt:notice] [pid 16796:tid 372] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Sat Sep 23 12:41:15.683674 2023] [mpm_winnt:notice] [pid 16796:tid 372] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Sat Sep 23 12:41:15.683674 2023] [core:notice] [pid 16796:tid 372] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/xampp/htdocs/MoodleWindowsInstaller-latest-400/server/apache -f conf\\httpd.conf'
+[Sat Sep 23 12:41:15.683674 2023] [mpm_winnt:notice] [pid 16796:tid 372] AH00418: Parent: Created child process 16864
+Apache server shutdown initiated...
+sl:warn] [pid 16864:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 23 12:41:16.276982 2023] [ssl:warn] [pid 16864:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\\xampp\\htdocs\\MoodleWindowsInstaller-latest-400\\server\\php\\ext\\sodium (The specified module could not be found.), C:\\xampp\\htdocs\\MoodleWindowsInstaller-latest-400\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat Sep 23 12:41:16.308256 2023] [mpm_winnt:notice] [pid 16864:tid 364] AH00354: Child: Starting 150 worker threads.
+[Sat Sep 23 13:17:17.192722 2023] [mpm_winnt:notice] [pid 16796:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Sep 23 13:17:19.207203 2023] [mpm_winnt:notice] [pid 16864:tid 364] AH00364: Child: All worker threads have exited.
+[Sat Sep 23 13:17:19.238662 2023] [mpm_winnt:notice] [pid 16796:tid 372] AH00430: Parent: Child process 16864 exited successfully.
+[Sat Sep 23 13:17:32.195552 2023] [ssl:warn] [pid 17708:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 23 13:17:32.219222 2023] [ssl:warn] [pid 17708:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\\xampp\\htdocs\\MoodleWindowsInstaller-latest-400\\server\\php\\ext\\sodium (The specified module could not be found.), C:\\xampp\\htdocs\\MoodleWindowsInstaller-latest-400\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat Sep 23 13:17:32.250445 2023] [mpm_winnt:notice] [pid 17708:tid 388] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Sat Sep 23 13:17:32.250445 2023] [mpm_winnt:notice] [pid 17708:tid 388] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Sat Sep 23 13:17:32.250445 2023] [core:notice] [pid 17708:tid 388] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/xampp/htdocs/MoodleWindowsInstaller-latest-400/server/apache -f conf\\httpd.conf'
+[Sat Sep 23 13:17:32.250445 2023] [mpm_winnt:notice] [pid 17708:tid 388] AH00418: Parent: Created child process 716
+[Sat Sep 23 13:17:32.517525 2023] [ssl:warn] [pid 716:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 23 13:17:32.548745 2023] [ssl:warn] [pid 716:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\\xampp\\htdocs\\MoodleWindowsInstaller-latest-400\\server\\php\\ext\\sodium (The specified module could not be found.), C:\\xampp\\htdocs\\MoodleWindowsInstaller-latest-400\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat Sep 23 13:17:32.579996 2023] [mpm_winnt:notice] [pid 716:tid 336] AH00354: Child: Starting 150 worker threads.
